@@ -1,0 +1,199 @@
+{
+  "settings": {
+    "name": "Ankit",
+    "title": "Software Developer",
+    "location": "India",
+    "summary": "Focused on building reliable backend systems, REST APIs, and scalable architectures with Node.js, MongoDB, and AWS",
+    "profileImage": "https://iili.io/fumhEkG.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:ankit221601@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "https://drive.google.com/file/d/1FKp2gdzqBQYW1ucRJL2ELZbWsK9kQb4g/view"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "JavaScript",
+          "TypeScript",
+          "Java",
+          "React.js",
+          "Next.js",
+          "Express.js",
+          "Node.js",
+          "MongoDB",
+          "REST",
+          "Postman",
+          "Github",
+          "Jest",
+          "Cypress",
+          "AWS",
+          "Datadog",
+          "Genie",
+          "Git",
+          "Vercel",
+          "Docker",
+          "Jenkins",
+          "JIRA",
+          "Nginx",
+          "Agile Development"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "SriTek",
+          "position": "SDE Intern",
+          "period": "Aug 2025 - Dec 2025",
+          "description": [
+            "Engineered and enhanced user-facing Data Privacy and EFP-based cookie consent modules, improving compliance workflows across 10,000+ global users",
+            "Worked across end-to-end SDLC with PR-based workflows, CI/CD pipelines (Jenkins, Harness), and staged deployments.",
+            "Developed and maintained test suites using Jest and Cypress, increasing test coverage by 30%.",
+            "Monitored and debugged production issues using Datadog and Genie, analyzing 4xx/5xx errors, logs, and API failures."
+          ]
+        },
+        {
+          "company": "KaaryaSetu",
+          "position": "Frontend Developer Intern",
+          "period": "May 2025 - Aug 2025",
+          "description": [
+            "Revamped froontend architecture to enhance page load speed by 0.5s, boosting user experience .",
+            "Transaled user feedback into actionable UI/UX improvements, streamining dashboard navigation and increasing user engagement by 20%.",
+            "Built an admin dashboard in React + TypeScript for managing thousands of users."
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "ResumeIQ",
+          "description": "AI-powered ATS Resume Analyzer using React, TypeScript, and Supabase; supports 10+ templates with real-time scoring, attracting 1,000+ users and 5,000+ page views.",
+          "tags": [
+            "React.js",
+            "TypeScript",
+            "Supabase",
+            "PostgreSQL",
+            "Tailwind CSS",
+            "shadcn/ui",
+            "AI Integration",
+            "Gemini API"
+          ],
+          "previewUrl": "https://resumeiq-by-ankit.vercel.app/",
+          "repoUrl": "https://github.com/helloankitpandey/ResumeIQ"
+        },
+        {
+          "title": "Study Notion",
+          "description": "Ed-tech platform for creating and rating content with full auth; integrated Razorpay for payments and validated flows via Postman.",
+          "tags": [
+            "MongoDB",
+            "Express.js",
+            "React.js",
+            "Node.js",
+            "Tailwind CSS",
+            "Cloudinary"
+          ],
+          "previewUrl": "https://studynotion-by-ankit.vercel.app/",
+          "repoUrl": "https://github.com/helloankitpandey/StudyNotion"
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Feroze Gandhi Institute Of Engineering And Technology",
+          "degree": "BTech - Computer Science and Engineering (CGPA: 7.9/10)",
+          "period": "2022 - 2026"
+        },
+        {
+          "institution": "St. Xavier's School",
+          "degree": "Class XII (PCM) • 90.2% (School Topper)",
+          "period": "2018 - 2020"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Leadership",
+      "items": [
+        {
+          "title": "Solved 500+ DSA problems with strong problem-solving skills",
+          "description": ""
+        },
+        {
+          "title": "Built and deployed full-stack applications used by 500+ users",
+          "description": ""
+        },
+        {
+          "title": "Secured AIR 473 in Indian Navy AA/SSR (Top 5%)",
+          "description": ""
+        },
+        {
+          "title": "Ranked in top 2.5% in NDA Examination",
+          "description": ""
+        },
+        {
+          "title": "School Topper (Class XII) and academic topper in B.Tech",
+          "description": ""
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "ankit221601@gmail.com",
+      "phone": "+91 9084963219",
+      "location": "India"
+    },
+    "social": {
+      "enabled": true,
+      "items": [
+        {
+          "platform": "linkedin",
+          "url": "https://www.linkedin.com/in/helloankit-pandey-/",
+          "icon": "linkedin"
+        },
+        {
+          "platform": "github",
+          "url": "https://github.com/helloankitpandey/",
+          "icon": "github"
+        },
+        {
+          "platform": "leetcode",
+          "url": "https://leetcode.com/u/ankii2216/",
+          "icon": "leetcode"
+        }
+      ]
+    },
+    "navigation": {
+      "enabled": true,
+      "items": [
+        { "name": "Home", "url": "/" },
+        { "name": "About", "url": "#about" },
+        { "name": "Experience", "url": "#experience" },
+        { "name": "Projects", "url": "#projects" },
+        { "name": "Education", "url": "#education" },
+        { "name": "Contact", "url": "#contact" }
+      ]
+    }
+  }
+}
