@@ -2,8 +2,8 @@
 
 Hi, I'm **Ankit Pandey**, a Software Developer focused on building scalable backend systems, REST APIs, and modern full-stack applications.
 
-🔗 Live Portfolio: https://your-portfolio-link.com  
-📄 Resume: https://drive.google.com/file/d/1FKp2gdzqBQYW1ucRJL2ELZbWsK9kQb4g/view  
+🔗 Live Portfolio: https://helloankitpandey.vercel.app/ 
+📄 Resume: https://drive.google.com/file/d/106CwrqUxfJlspyMPlbKu00ga-Rwmt6Em/view 
 
 ---
 
