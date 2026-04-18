@@ -227,9 +227,9 @@
         ).join('');
         
         document.getElementById('nav-container').innerHTML = navItems;
-        
+
         const mobileNavItems = data.sections.navigation.items.map(item => 
-          `<a href="${item.url}" class="mobile-link hover:text-orange-500 transition-colors" onclick="toggleMobileMenu()">${item.name}</a>`
+          `<a href="${item.url}" class="mobile-link dark:text-white text-gray-200 hover:text-white transition-colors" onclick="toggleMobileMenu()">${item.name}</a>`
         ).join('');
         document.getElementById('mobile-nav-links').innerHTML = mobileNavItems;
 
