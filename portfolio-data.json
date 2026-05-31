@@ -61,10 +61,10 @@
           "position": "SDE Intern",
           "period": "Aug 2025 - Dec 2025",
           "description": [
-            "Engineered and enhanced user-facing Data Privacy and EFP-based cookie consent modules, improving compliance workflows across 10,000+ global users",
-            "Worked across end-to-end SDLC with PR-based workflows, CI/CD pipelines (Jenkins, Harness), and staged deployments.",
-            "Developed and maintained test suites using Jest and Cypress, increasing test coverage by 30%.",
-            "Monitored and debugged production issues using Datadog and Genie, analyzing 4xx/5xx errors, logs, and API failures."
+            "Built enterprise-grade data privacy and cookie consent modules using React.js and Node.js, ensuring GDPR compliance across 10,000+ users",
+            "Developed and maintained test suites using Jest and Cypress, improving code reliability in production.",
+            "Monitored and debugged production incidents via Datadog — analysing 4xx/5xx errors, tracing API failures, and resolving log anomalies.",
+            "Collaborated in Agile sprints with PR-based workflows and CI/CD pipelines (Jenkins, Harness), contributing to staged production deployments across multiple sprint cycles."
           ]
         },
         {
@@ -112,6 +112,21 @@
           ],
           "previewUrl": "https://studynotion-by-ankit.vercel.app/",
           "repoUrl": "https://github.com/helloankitpandey/StudyNotion"
+        },
+        {
+          "title": "Syncro",
+          "description": "A full-stack AI-integrated project management tool built with React, TypeScript, Node.js, MongoDB and Redis. Syncro helps teams plan, track and execute work in real time — featuring task boards, AI assistance, collaboration tools and a scalable backend architecture.",
+          "tags": [
+            "React.js",
+            "TypeScript",
+            "Redux Toolkit",
+            "Node.js",
+            "Express.js",
+            "MongoDB",
+            "Redis"
+          ],
+          "previewUrl": "https://github.com/helloankitpandey/Syncro",
+          "repoUrl": "https://github.com/helloankitpandey/Syncro"
         }
       ]
     },
