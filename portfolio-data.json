@@ -127,6 +127,21 @@
           ],
           "previewUrl": "https://github.com/helloankitpandey/Syncro",
           "repoUrl": "https://github.com/helloankitpandey/Syncro"
+        },
+        {
+          "title": "PrepAI",
+          "description": "An AI-powered interview preparation platform built with Next.js, TypeScript, Tailwind CSS and OpenRouter. PrepAI generates role-specific technical questions, HR questions, DSA problems, system design prompts and personalized study checklists to help software engineers prepare efficiently for interviews.",
+          "tags": [
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "OpenRouter",
+            "AI",
+            "React.js",
+            "Vercel"
+          ],
+          "previewUrl": "https://prep-ai-assignment.vercel.app/",
+          "repoUrl": "https://github.com/helloankitpandey/PrepAI"
         }
       ]
     },
@@ -202,12 +217,30 @@
     "navigation": {
       "enabled": true,
       "items": [
-        { "name": "Home", "url": "/" },
-        { "name": "About", "url": "#about" },
-        { "name": "Experience", "url": "#experience" },
-        { "name": "Projects", "url": "#projects" },
-        { "name": "Education", "url": "#education" },
-        { "name": "Contact", "url": "#contact" }
+        {
+          "name": "Home",
+          "url": "/"
+        },
+        {
+          "name": "About",
+          "url": "#about"
+        },
+        {
+          "name": "Experience",
+          "url": "#experience"
+        },
+        {
+          "name": "Projects",
+          "url": "#projects"
+        },
+        {
+          "name": "Education",
+          "url": "#education"
+        },
+        {
+          "name": "Contact",
+          "url": "#contact"
+        }
       ]
     }
   }
