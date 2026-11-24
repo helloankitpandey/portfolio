@@ -1,10 +1,10 @@
 {
   "settings": {
-    "name": "Ankit",
-    "title": "Software Developer",
-    "location": "India",
-    "summary": "Focused on building reliable backend systems, REST APIs, and scalable architectures with Node.js, MongoDB, and AWS",
-    "profileImage": "https://iili.io/fumhEkG.jpg"
+  "name": "Ankit",
+  "title": "Software Developer | AI Engineer",
+  "location": "India",
+  "summary": "Building intelligent, production-ready applications by combining full-stack engineering, LLMs, AI agents, and scalable backend systems. Passionate about solving real-world problems through applied AI and end-to-end product development.",
+  "profileImage": "https://iili.io/fumhEkG.jpg"
   },
   "sections": {
     "hero": {
@@ -16,7 +16,7 @@
         },
         {
           "text": "View Resume",
-          "url": "https://drive.google.com/file/d/1TxMc__5fsmvMpVjA5LWCvOtu3tUKm1X7/view"
+          "url": "https://drive.google.com/file/d/1eBdMkkWag94KQXR7ae_RKZK1pfMI8K2n/view"
         }
       ]
     },
@@ -29,12 +29,27 @@
           "JavaScript",
           "TypeScript",
           "Java",
+          "Python",
+          "SQL",
           "React.js",
           "Next.js",
           "Express.js",
+          "FastAPI",
           "Node.js",
           "MongoDB",
-          "REST",
+          "REST API",
+          "Microservices",
+          "Gemini API",
+          "OpenAI API",
+          "LangChain",
+          "LangGraph",
+          "RAG",
+          "AI Agents",
+          "MCP",
+          "Pydantic",
+          "Prompt Engineering",
+          "Scikit-learn",
+          "TensorFlow",
           "Postman",
           "Github",
           "Jest",
@@ -56,6 +71,18 @@
       "enabled": true,
       "title": "Work Experience",
       "items": [
+        {
+          "company": "Neenjas Electric Pvt. Ltd.",
+          "position": "Software Developer (R&D)",
+          "period": "Jul 2026 - Present",
+          "description": [
+            "Developed Neenjas FirmwareBook, a full-stack firmware lifecycle platform using React.js, TypeScript, Node.js, Express.js, and Electron, supporting 9 user roles, firmware version tracking, approval workflows, finished-goods management, and Odoo integration.",
+            "Integrated an AI-powered NIA chatbot into enterprise applications to streamline user interactions and provide intelligent assistance across business workflows.",
+            "Developing Neenjas Connect, a Gemini API-powered AI assistant featuring conversational question answering, third-party product integrations, live energy tracking, and energy and cost estimation.",
+            "Independently developed Neenjas Saarthi, a full-stack service-management platform handling 1,000+ monthly tickets, with repair workflows, inventory management, Odoo integration, and an AI-powered NIA chatbot.",
+            "Collaborated with R&D, manufacturing, and production teams to understand business requirements, develop software solutions, troubleshoot issues, and support end-to-end deployment and adoption."
+          ]
+        },
         {
           "company": "SriTek",
           "position": "SDE Intern",
@@ -135,8 +162,8 @@
       "title": "Education",
       "items": [
         {
-          "institution": "Feroze Gandhi Institute Of Engineering And Technology",
-          "degree": "BTech - Computer Science and Engineering (CGPA: 7.9/10)",
+          "institution": "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+          "degree": "BTech - Computer Science and Engineering (CGPA: 8.0/10)",
           "period": "2022 - 2026"
         },
         {
